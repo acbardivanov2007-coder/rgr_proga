@@ -1,0 +1,4 @@
+gcc -Wall -Wextra -std=c11 calcFrequency.c -o calcFrequency
+
+
+./calcFrequency text1.txt text2.txt
